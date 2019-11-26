@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sundeeppatilbrand/ContosoAir/_apis/build/status/patilsundeep21.ContosoAir?branchName=master)](https://dev.azure.com/sundeeppatilbrand/ContosoAir/_build/latest?definitionId=5&branchName=master)
 
 
 # Microsoft.Github CI Demo
